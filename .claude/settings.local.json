@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run dev:*)",
+      "Bash(npm start)",
+      "mcp__ide__getDiagnostics",
+      "Bash(npm run build:*)",
+      "Bash(npm install:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(npm run start:*)",
+      "Bash(taskkill:*)",
+      "Bash(PORT=3001 npm start)",
+      "Bash(copy package.json ../acd-backup-working/)",
+      "Bash(copy package-lock.json ../acd-backup-working/)",
+      "Bash(copy tsconfig.json ../acd-backup-working/)",
+      "Bash(copy tailwind.config.js ../acd-backup-working/)",
+      "Bash(copy postcss.config.js ../acd-backup-working/)",
+      "Bash(copy README.md ../acd-backup-working/)",
+      "Bash(cp:*)",
+      "Bash(mkdir:*)",
+      "Bash(del dataquestions.ts)",
+      "Bash(rm:*)",
+      "Bash(timeout 10 npm start)",
+      "Bash(PORT=3002 npm start)",
+      "Bash(xcopy:*)",
+      "Bash(robocopy:*)",
+      "Bash(powershell:*)",
+      "Bash(git init:*)"
+    ],
+    "deny": []
+  }
+}
