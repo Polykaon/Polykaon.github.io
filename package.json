@@ -2,7 +2,7 @@
   "name": "acd",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://polykaon.github.io/AC-Demo",
+  "homepage": "https://polykaon.github.io",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.6.4",
